@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IoT-Based Flood Monitoring & Prediction System
 
 The system is split into two parts: a Flask backend for the ML logic + MongoDB storage, and a Vite + React frontend for real-time visualization.
@@ -85,3 +86,6 @@ python sensor_simulator.py
 
 ### Done! 🎉
 Open your browser to `http://localhost:3000` to view the beautiful real-time React dashboard updating live from the simulated IoT inputs!
+=======
+# smart-flood-monitor
+>>>>>>> 1cbf6b7805854305994a96852b8453f0625232c7
